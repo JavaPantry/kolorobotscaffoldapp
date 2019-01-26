@@ -6,4 +6,8 @@
 ## Initial commit 
 - wired RuntimeProfile in HomeController
 - wired RuntimeProfile in AuditFilter
-    - confirm that it's not injected 
+    - confirm that it's not injected
+
+## Spring DI injected active RuntimeProfile bean into AuditFilter
+- see `./InjectingProfileIntoFilter.md` 
+    
