@@ -9,5 +9,4 @@
     - confirm that it's not injected
 
 ## Spring DI injected active RuntimeProfile bean into AuditFilter
-- see `./InjectingProfileIntoFilter.md` 
-    
+- see delete work log notes Jan 26 
